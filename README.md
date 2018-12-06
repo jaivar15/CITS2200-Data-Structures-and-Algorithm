@@ -1,1 +1,3 @@
 # CITS2200-Data-Structures-and-Algorithm
+
+Students develop an understanding of the fundamentals of data structure selection, analysis, design, implementation and application, and in-depth technical knowledge of key abstract data types; the ability to undertake problem identification, formulation and solution using ADT components for storing and retrieving data; and the ability to select and use appropriate ADTs for object-oriented libraries where suitable. Also, students gain in-depth technical competence in algorithm design, implementation and analysis and learn techniques for problem identification, formulation and solution.
